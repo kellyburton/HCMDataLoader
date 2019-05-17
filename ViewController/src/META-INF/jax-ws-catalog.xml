@@ -1,0 +1,4 @@
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <system systemId="https://ekbg-dev2.fa.us8.oraclecloud.com:443/idcws/GenericSoapPort/#%7Burn%3AGenericSoap%7DGenericSoapService?wsdl"
+          uri="../genericsoap/GenericSoapService.wsdl"/>
+</catalog>
